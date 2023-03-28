@@ -1,4 +1,7 @@
-﻿using LSP;
+﻿/// <summary>
+/// 里氏替换原则
+/// </summary>
+using LSP;
 
 NPC npc = new NPC("npc");
 Player player1 = new Player("玩家1");

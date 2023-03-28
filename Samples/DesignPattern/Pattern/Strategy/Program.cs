@@ -1,5 +1,7 @@
-﻿using Strategy;
-
+﻿/// <summary>
+/// 策略模式
+/// </summary>
+using Strategy;
 
 Context context = new Context(new CashNormal());
 Console.WriteLine(context.AcceptCash(100));

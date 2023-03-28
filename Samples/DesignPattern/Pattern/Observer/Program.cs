@@ -1,4 +1,7 @@
-﻿using Observer;
+﻿/// <summary>
+/// 观察者模式
+/// </summary>
+using Observer;
 
 Subject subject = new Subject();
 

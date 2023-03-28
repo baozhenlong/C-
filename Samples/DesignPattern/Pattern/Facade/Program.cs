@@ -1,4 +1,7 @@
-﻿using Facade;
+﻿/// <summary>
+/// 外观模式
+/// </summary>
+using Facade;
 
 ShapeCreator shapeCreator = new ShapeCreator();
 

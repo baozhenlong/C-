@@ -1,4 +1,7 @@
-﻿using DIP;
+﻿/// <summary>
+/// 依赖倒置原则
+/// </summary>
+using DIP;
 
 MobilePhone damonMiUI = new MiUI("小米12", "damon");
 MobilePhone stefanHuawei = new Huawei("华为P50", "stefan");

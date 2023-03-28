@@ -1,4 +1,7 @@
-﻿using SRP;
+﻿/// <summary>
+/// 单一职责原则
+/// </summary>
+using SRP;
 
 Cat cat = new Cat("猫");
 cat.Shout();
